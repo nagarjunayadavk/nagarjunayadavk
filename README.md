@@ -50,6 +50,17 @@ I am a Full Stack Developer & open source tech enthusiast <img src="https://medi
 
 #### DB Technologies
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nagarjunayadavk&theme=dark&background=0c4a6e)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nagarjunayadavk&show_icons=true&theme=dark&bg_color=0c4a6e)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagarjunayadavk&layout=compact&theme=dark&bg_color=0c4a6e)
+
+
 <!--
 **nagarjunayadavk/nagarjunayadavk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
