@@ -7,8 +7,7 @@
 </h3>
 
 I am a Full Stack Developer & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-<p>I have experience on various programming languages and it's frameworks like Java, J2EE, Ruby, Spring Boot, ReactJs, Angular, AngularJs, Vue Js, EmberJs, ROR, 
-Python, Perl,  EJB, Servlets, PostgressSQL, MySQL and MongoDB.</p>
+<p>I have experience on various programming languages and it's frameworks like Java, J2EE, Ruby, Spring Boot, ReactJs, Angular, AngularJs, Vue Js, NVd3, Node Js, ExpressJs, HTML5, CSS3, Bootstrap,  EmberJs, ROR, JQuery Mobile, I18n-js, Handlebarsjs, Python, Perl,  EJB, Servlets, RabbitMQ, PostgressSQL, MySQL and MongoDB.</p>
 <p> I have also experiance on BI tools like Tableau, Sisense and Expertise on Intigrating UI 
 with BI tools using Javascript API provided by either Tableau or Sisense. </p>
 
