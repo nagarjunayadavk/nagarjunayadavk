@@ -62,7 +62,7 @@ with BI tools using Javascript API provided by either Tableau or Sisense. </p>
 
 ### My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nagarjunayadavk&theme=dark&background=0c4a6e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nagarjunayadavk&theme=dark&background=0C4A6E)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nagarjunayadavk&show_icons=true&theme=dark&bg_color=0c4a6e)
 
